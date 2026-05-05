@@ -49,7 +49,7 @@ Argument	Description
 -o, --output	Output file (.pcap)
 
 📁 Project Structure
-project-name/
+Advanced-Network-Sniffer-Tool-1.0/
 ├── main.py              # Entry point
 ├── requirements.txt    # Dependencies
 ├── README.md           # Documentation
